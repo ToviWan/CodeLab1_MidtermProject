@@ -468,7 +468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2ab9346b1ba9894f982be2bc701b460, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  countDownTime: 6
+  countDownTime: 4
   timetxt: {fileID: 830831957}
 --- !u!114 &830831957
 MonoBehaviour:
@@ -829,8 +829,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279762431
-  m_fontColor: {r: 1, g: 0.9923926, b: 0.09019607, a: 1}
+    rgba: 4294947423
+  m_fontColor: {r: 0.37254903, g: 0.69803923, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

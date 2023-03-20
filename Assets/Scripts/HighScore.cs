@@ -17,6 +17,7 @@ public class HighScore : MonoBehaviour
     private void Start()
     {
 
-        scoretxt.text = "You Spent " + GameManager.usedTime.ToString() + " Seconds";
+        scoretxt.text = "You Spent " + GameManager.usedTime.ToString() + " Seconds"
+            + "\n"+ "Be faster next time UwU";
     }
 }

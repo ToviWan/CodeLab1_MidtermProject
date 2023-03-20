@@ -426,7 +426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 164523132613858468, guid: 45e3b72faec9f5c42a728d7ffb226928, type: 3}
       propertyPath: m_Color.r
-      value: 0.98675776
+      value: 0.00904882
       objectReference: {fileID: 0}
     - target: {fileID: 164523132613858469, guid: 45e3b72faec9f5c42a728d7ffb226928, type: 3}
       propertyPath: m_Name
@@ -529,7 +529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2ab9346b1ba9894f982be2bc701b460, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  countDownTime: 6
+  countDownTime: 3
   timetxt: {fileID: 830831957}
 --- !u!114 &830831957
 MonoBehaviour:
@@ -890,8 +890,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278453503
-  m_fontColor: {r: 1, g: 0.014824748, b: 0.014824748, a: 1}
+    rgba: 4278255362
+  m_fontColor: {r: 0.007843138, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1091,11 +1091,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 164523132613858468, guid: 45e3b72faec9f5c42a728d7ffb226928, type: 3}
       propertyPath: m_Color.b
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 164523132613858468, guid: 45e3b72faec9f5c42a728d7ffb226928, type: 3}
       propertyPath: m_Color.g
-      value: 0.6158209
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 164523132613858468, guid: 45e3b72faec9f5c42a728d7ffb226928, type: 3}
       propertyPath: m_Color.r
